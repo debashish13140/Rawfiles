@@ -1,0 +1,51 @@
+employee_id,approval status,employee_email,leave_type,leave_approved,manager,country,month,approval type,approval stage,item
+3023458,Open,priyanka@google.com,Annual Leave,08-04-2024,amit@google.com,India,Apr,Approved,Review,Sony
+3026251,Open,amrita@google.com,Sick Leave,22-04-2024,amrita@google.com,India,Apr,Approved,Hire,Videocon
+3026251,Open,djamba@google.com,Annual Leave,05-05-2024,john@google.com,India,May,Approved,On Hire,Onida
+3801369,Open,arun@google.com,Sick Leave,10-03-2024,shiv@google.com,USA,Mar,Approved,On Hire,Onida
+3023458,Open,anka@google.com,Well Being,16-04-2024,amit@google.com,India,Apr,Approved,Review,Sony
+3801369,Open,aruni@google.com,Family Care,12-05-2024,shiv@google.com,USA,May,Approved,Review,LG
+3026251,Open,amruta@google.com,Annual Leave,26-06-2024,john@google.com,India,Jun,Approved,Review,LG
+3026251,Open,amritta@google.com,Annual Leave,01-06-2024,amit@google.com,India,Jun,Approved,Review,LG
+3801369,Open,aruna@google.com,Annual Leave,12-07-2024,shiv@google.com,USA,Jul,Approved,Hire,Sony
+3023458,Open,riyanka@google.com,Annual Leave,18-07-2024,amit@google.com,India,Jul,Approved,Hire,Videocon
+3801369,Open,b@google.com,Annual Leave,19-06-2024,shiv@google.com,USA,Jun,Approved,Hire,Videocon
+3026251,Open,cmrita@google.com,Annual Leave,16-07-2024,amrita@google.com,India,Jul,Approved,Hire,Videocon
+3023458,Open,iriyanka@google.com,Annual Leave,26-07-2024,amit@google.com,India,Jul,Approved,On Hire,Videocon
+3801369,Open,vrun@google.com,Sick Leave,17-06-2024,shiv@google.com,USA,Jun,Approved,On Hire,Onida
+3801369,Open,arub@google.com,Family Care,25-06-2024,jax@google.com,USA,Jun,Approved,On Hire,Onida
+3026251,Open,anrita@google.com,Family Care,07-09-2024,amit@google.com,India,Sep,Approved,On Hire,Onida
+3023458,Open,ciriyanka@google.com,Well Being,16-09-2024,amit@google.com,India,Sep,Approved,On Hire,Onida
+3023458,Open,oriyanka@google.com,Well Being,08-08-2024,amrita@google.com,India,Aug,Approved,Hire,Sony
+3023458,Filled,mriyanka@google.com,Family Care,02-08-2024,jax@google.com,India,Aug,Approved,Hire,Sony
+3023458,Filled,nriyanka@google.com,Sick Leave,01-09-2024,amrita@google.com,India,Sep,Approved,Hire,Sony
+3026251,Filled,hmrita@google.com,Annual Leave,13-09-2024,amit@google.com,India,Sep,Approved,Hire,Sony
+3026251,Filled,humrita@google.com,Annual Leave,02-09-2024,amrita@google.com,India,Sep,Approved,Hire,Videocon
+3801369,Filled,rrun@google.com,Annual Leave,15-10-2024,shiv@google.com,USA,Oct,Approved,Nothing,LG
+3023458,Filled,ppriyanka@google.com,Annual Leave,19-10-2024,amit@google.com,India,Oct,Approved,Nothing,LG
+3801369,Filled,jrun@google.com,Annual Leave,22-11-2024,shiv@google.com,USA,Nov,Approved,Nothing,LG
+3026251,Filled,rmrita@google.com,Annual Leave,10-10-2024,john@google.com,India,Oct,Approved,Nothing,Videocon
+3026251,Filled,jackey@google.com,Annual Leave,20-11-2024,amit@google.com,India,Nov,Approved,Nothing,Onida
+3801369,Filled,jrun@google.com,Annual Leave,27-10-2024,shiv@google.com,USA,Oct,Approved,Nothing,Onida
+3023458,Filled,john@google.com,Annual Leave,06-11-2024,amit@google.com,India,Nov,Approved,Nothing,Onida
+3801369,Filled,trun@google.com,Annual Leave,20-12-2024,shiv@google.com,USA,Dec,Approved,Nothing,Videocon
+3026251,Filled,jax@google.com,Annual Leave,24-12-2024,jax@google.com,India,Dec,Approved,Nothing,Videocon
+3023458,Closed,goro@google.com,Sick Leave,11-12-2024,amit@google.com,India,Dec,Approved,Closed,Closed
+3801369,Frozen,jonny@google.com,Family Care,23-12-2024,jax@google.com,USA,Dec,Approved,Frozen,Frozen
+3801369,Closed,scorpian@google.com,Family Care,18-12-2024,shiv@google.com,USA,Dec,Approved,Closed,Closed
+3026251,Frozen,zero@google.com,Family Care,11-12-2024,amit@google.com,India,Dec,Approved,Frozen,Frozen
+3023458,Level 1,subzero@google.com,Family Care,23-02-2025,shinok@google.com,India,Feb,Unapproved,Level 1,Videocon
+3023458,Level 2,shinok@google.com,Well Being,02-02-2025,shinok@google.com,India,Feb,Unapproved,Level 2,Videocon
+3023458,Level 4,tanya@google.com,Well Being,31-01-2025,amit@google.com,India,Jan,Unapproved,Level 4,Videocon
+3498201,Level 1,sonya@google.com,Well Being,18-04-2024,anuj@google.com,USA,Apr,Unapproved,Level 1,Videocon
+3498201,Level 2,blade@google.com,Well Being,22-06-2024,jax@google.com,USA,Jun,Unapproved,Level 2,Onida
+3498201,Level 2,kyo@google.com,Annual Leave,01-08-2024,shinok@google.com,USA,Aug,Unapproved,Level 2,Onida
+3498201,Level 1,ralf@google.com,Annual Leave,26-06-2024,anuj@google.com,USA,Jun,Unapproved,Level 1,Onida
+3498201,Level 2,king@google.com,Annual Leave,23-08-2024,shinok@google.com,USA,Aug,Unapproved,Level 2,Onida
+3498201,Level 3,kusanagi@google.com,Annual Leave,29-08-2024,jax@google.com,USA,Aug,Unapproved,Level 3,Sony
+3498201,Level 1,tani@google.com,Annual Leave,05-09-2024,anuj@google.com,USA,Sep,Unapproved,Level 1,Sony
+3498201,Level 5,faizal@google.com,Family Care,30-10-2024,shinok@google.com,USA,Oct,Unapproved,Level 5,Sony
+3498201,Level 4,jobs@google.com,Sick Leave,05-10-2024,shinok@google.com,USA,Oct,Unapproved,Level 4,Sony
+3498201,Level 1,steve@google.com,Well Being,04-01-2025,anuj@google.com,USA,Jan,Unapproved,Level 1,Sony
+3498201,Level 2,jess@google.com,Well Being,20-12-2024,jax@google.com,USA,Dec,Unapproved,Level 2,Sony
+3498201,Level 3,jeff@google.com,Sick Leave,03-01-2025,anuj@google.com,USA,Jan,Unapproved,Level 3,LG
